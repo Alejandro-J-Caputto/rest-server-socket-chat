@@ -1,0 +1,6 @@
+/node_modules
+
+/config/config.env
+
+/uploads/products/**.*
+/uploads/users/**.*
